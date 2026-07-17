@@ -23,7 +23,7 @@
 ## 📫 Contact
 
 - Email: lkm943450@gmail.Com
-- Linkdin:
+-Linkdin:https://www.linkedin.com/in/lucky
 
 <!--
 **lucky/lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
